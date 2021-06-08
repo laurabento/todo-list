@@ -1,6 +1,6 @@
 # todo list
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
