@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "checked": false
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "checked": false
+    },
+    {
+      "id": "3",
+      "text": "Food Shopping",
+      "checked": false
+    }
+  ]
+}
