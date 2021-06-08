@@ -1,6 +1,6 @@
 # To-do List
 
-A simple project made to learn more about Vue.js and Vuex. A list for you put your to-do for the day 🗒️. 
+A simple project made for learn more about Vue.js and Vuex. A list for you put your to-do for the day 🗒️. 
 
 ![Desktop design preview](./preview/preview-3.png)
 
