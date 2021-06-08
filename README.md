@@ -2,6 +2,8 @@
 
 A simple project made to learn more about Vue.js and Vuex. A list for you put your to-do for the day. 
 
+![Desktop design preview](./preview/preview-3.png)
+
 ## Technologies 
 - Vue.js
 - Vuex
