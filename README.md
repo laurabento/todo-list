@@ -1,4 +1,4 @@
-# todo-list
+# todo list
 
 ## Project setup
 ```
@@ -10,15 +10,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Project Backend - JSON Serve
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run backend
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
